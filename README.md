@@ -40,7 +40,7 @@ A continuación se muestran algunos ejemplos visuales de cómo funciona Dinobot 
 
 Dinobot entiende preguntas informales y mal redactadas, y responde de forma clara y sencilla, adaptada a usuarios sin experiencia técnica.
 
-![Ejemplo: Puedes preguntarle lo que quieras](https://github.com/drg471/ChatBot/blob/up-images/Imagen3.png)
+<img src="https://github.com/drg471/ChatBot/blob/up-images/Imagen1.png" width="600" />
 
 ---
 
@@ -52,3 +52,20 @@ Dinobot ofrece preguntas comunes y respuestas instantáneas, para resolver dudas
 ![Ejemplo: Preguntas frecuentes con respuestas rápidas](https://github.com/drg471/ChatBot/blob/up-images/Imagen5.png)
 
 ---
+
+### Seguridad y privacidad
+
+Dinobot no permite ingresar información sensible para proteger tu privacidad y seguridad durante las consultas.
+
+![Ejemplo: No permite ingreso de datos sensibles](https://github.com/drg471/ChatBot/blob/up-images/Imagen2.png)
+![Ejemplo: No permite ingreso de datos sensibles](https://github.com/drg471/ChatBot/blob/up-images/Imagen6.png)
+![Ejemplo: No permite ingreso de datos sensibles](https://github.com/drg471/ChatBot/blob/up-images/Imagen7.png)
+
+---
+
+### Ámbito limitado a su función
+
+Dinobot está diseñado exclusivamente para actuar como un asistente experto en informática, ofimática, móviles y conectividad. Por ello, solo responde preguntas dentro de este ámbito técnico y no puede atender consultas fuera de su especialización.
+
+![Ejemplo: No responde de temas no relacionados con la informática](https://github.com/drg471/ChatBot/blob/up-images/Imagen8.png)
+
