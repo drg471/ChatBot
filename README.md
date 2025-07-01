@@ -70,4 +70,11 @@ Dinobot está diseñado exclusivamente para actuar como un asistente experto en 
 
 <img src="https://github.com/drg471/ChatBot/blob/up-images/Imagen8.png" width="600" />
 
+---
+
+## Conclusión
+
+Gracias por interesarte en Dinobot.  
+Este proyecto está en desarrollo y tu feedback será muy bienvenido para seguir mejorando.  
+No dudes en abrir un issue o contactarme si tienes sugerencias.
 
