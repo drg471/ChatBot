@@ -12,6 +12,8 @@ Dinobot es un chatbot diseñado para ayudar a personas con pocos conocimientos t
   - Modelo: `meta-llama/llama-4-scout-17b-16e-instruct`  
   - Prompt personalizado para asistencia técnica  
 
+(https://github.com/drg471/ChatBot/raw/add-image-readme/Imagen1.png)
+
 ## 🧠 ¿Qué puede hacer Dinobot?
 
 Dinobot puede ayudarte con temas como:
@@ -47,3 +49,5 @@ Dinobot entiende preguntas informales y mal redactadas, y responde de forma clar
 Dinobot ofrece botones con preguntas comunes y respuestas instantáneas, para resolver dudas típicas en pocos segundos.
 
 ![Ejemplo: Preguntas frecuentes con respuestas rápidas](ruta/a/tu/imagen2.png)
+
+---
