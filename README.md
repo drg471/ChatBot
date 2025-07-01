@@ -31,7 +31,7 @@ Para mantener el enfoque, Dinobot **no responde preguntas sobre:**
 
 - Temas no técnicos como cocina, deportes, medicina, clima, etc.  
 - Funcionamiento interno de esta aplicación o del propio Dinobot  
-- 
+  
 ## 🖼️ Ejemplos de uso
 
 A continuación se muestran algunos ejemplos visuales de cómo funciona Dinobot en la práctica:
@@ -46,8 +46,9 @@ Dinobot entiende preguntas informales y mal redactadas, y responde de forma clar
 
 ### Respuestas rápidas a preguntas frecuentes
 
-Dinobot ofrece botones con preguntas comunes y respuestas instantáneas, para resolver dudas típicas en pocos segundos.
+Dinobot ofrece preguntas comunes y respuestas instantáneas, para resolver dudas típicas rapidamente.
 
-![Ejemplo: Preguntas frecuentes con respuestas rápidas](ruta/a/tu/imagen2.png)
+![Ejemplo: Preguntas frecuentes con respuestas rápidas](https://github.com/drg471/ChatBot/blob/up-images/Imagen4.png)
+![Ejemplo: Preguntas frecuentes con respuestas rápidas](https://github.com/drg471/ChatBot/blob/up-images/Imagen5.png)
 
 ---
