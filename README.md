@@ -72,7 +72,7 @@ Dinobot está diseñado exclusivamente para actuar como un asistente experto en 
 
 ---
 
-## Conclusión
+## 🧾 Conclusión
 
 Gracias por interesarte en Dinobot.  
 Este proyecto está en desarrollo y tu feedback será muy bienvenido para seguir mejorando.  
