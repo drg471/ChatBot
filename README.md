@@ -40,7 +40,7 @@ A continuación se muestran algunos ejemplos visuales de cómo funciona Dinobot 
 
 Dinobot entiende preguntas informales y mal redactadas, y responde de forma clara y sencilla, adaptada a usuarios sin experiencia técnica.
 
-![Ejemplo: Puedes preguntarle lo que quieras](https://github.com/drg471/ChatBot/raw/add-image-readme/Imagen1.png)
+![Ejemplo: Puedes preguntarle lo que quieras](https://github.com/drg471/ChatBot/blob/up-images/Imagen3.png)
 
 ---
 
